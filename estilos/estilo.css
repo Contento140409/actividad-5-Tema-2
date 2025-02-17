@@ -1,0 +1,52 @@
+img{
+    height: 150px; 
+}
+
+#contenedor-imagenes{
+    border: 5px solid red;
+    position: relative;
+}
+#labrador-retriever{
+    position:absolute;
+    top: 9px;
+    left: 1200px;
+}
+
+#labrador-retriever-imagen{
+    position:absolute;
+    top: 4px;
+    left:1280px;
+}
+#samoyedo{
+ position:relative;
+ left: 1000px;
+}
+#samoyedo-imagen{
+    position:relative;
+    left:1050px;
+}
+#beagle-imagen{
+    position:relative;
+    top:9px;
+    left:250px;
+}
+#beagle{
+position:relative;
+ top: 9px;
+ left: 400px;
+}
+#terranova-imagen{
+    position:relative;
+    top:40px;
+    left:200px;
+}
+#rough-collie{
+    position:absolute;
+    top:9px;
+    left:900px;
+}
+#rough-collie-imagen{
+    position:absolute;
+    top:50px;
+    left:900px;
+}
